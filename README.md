@@ -1,4 +1,27 @@
 <div align="center">
+  <a href="https://github.com/karthikmudunuri/eldoraui">
+
+
+ <img src="https://github.com/user-attachments/assets/02d84173-c513-4180-936f-35c24ec38209" alt="Logo" width="60" height="60">
+  </a>
+  <h1 align="center">Eldora UI</h1>
+  <p align="center">
+   open-source animated components built with React, Typescript, Tailwind CSS, and Framer Motion.
+100% open-source, and customizable.
+  </p>
+  <p>
+    
+   <a href="https://www.eldoraui.site/">Visit site</a>
+    ·
+    <a href="https://github.com/karthikmudunuri/eldoraui/issues">Report Bug</a>
+    ·
+    <a href="https://github.com/karthikmudunuri/eldoraui/issues">Request Feature</a>
+  </p>
+</div>
+
+<!-- ABOUT THE TEMPLATE -->
+
+<div align="center">
 
   <video
     autoPlay
