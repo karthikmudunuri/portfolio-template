@@ -23,13 +23,8 @@
 
 <div align="center">
 
-  <video
-    autoPlay
-    loop
-    muted
-    src="https://github.com/user-attachments/assets/5a1bb44b-3977-46f4-8a3b-e6a8530a87af"
-    className="w-full rounded-xl border shadow-2xl"
-  />
+ <img width="1425" alt="Portfolio-template" src="https://github.com/user-attachments/assets/265fa13e-98ed-4c99-bd7f-ce7efe19627f">
+
  
 </div>
 
